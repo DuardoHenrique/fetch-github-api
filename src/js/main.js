@@ -6,7 +6,7 @@ import { screen } from "./objects/screen.js"
 document.getElementById('btn-search').onclick = function() {
     const userName = document.getElementById('input-search').value
     if(validadeEmptyInput(userName)) return
-    getUserProfile(userName)
+    getUserData(userName)
 }
 
 document.getElementById('input-search').addEventListener('keyup', (e) => {
