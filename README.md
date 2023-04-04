@@ -19,4 +19,4 @@
 
 ## Comentarios 
 
-Projeto proposto pelo curso DevQuest, afim de consolidar alguns conceitos sobre APIs e praticar mais JavaScript.
+Projeto proposto pelo curso DevQuest, afim de consolidar alguns conceitos sobre APIs e praticar mais sobre JavaScript.
